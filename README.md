@@ -1,7 +1,7 @@
 # Merge-Conflits
 
 
- "Local"
+ "Remote"
  
  
  Git/GitHub 5 : Merge & Conflits
